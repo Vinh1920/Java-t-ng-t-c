@@ -1,2 +1,2 @@
-# Java-t-ng-t-c
+# Java-tuong-tac
 Lập trình Java tương tác với Database
